@@ -73,13 +73,14 @@ Provides salary trend insights and helps compare salary by:
 ## 📷 Dashboard Preview
 Screenshots included in this repository:
 -Top Skills of Data-related roles
-  ![Top skills Dashboard](image<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/6fdd64c4-20df-4642-b3d7-4e00cd7eb0f2" />
-s/dashboard.png)
- -Skill requirement comparison view with<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f5961070-4572-4781-997c-3f74186c8f30" />
- slicers
--Salary Analysis dashboard with<img 
+ <img width="1404" height="688" alt="salary median" src="https://github.com/user-attachments/assets/a82f370c-1385-4a3f-8e24-03178bc9f222" />
 
----<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f609d695-5440-43bd-a158-88195ef01e67" />
+ -Skill requirement co<img width="1310" height="377" alt="skill analysis" src="https://github.com/user-attachments/assets/63dd592f-f2ad-42d9-9e62-78c028fb7ffd" />
+mparison view 
+-Salary Analysis dashboard with<img 
+<img width="1920" height="1080" alt="salary comparision" src="https://github.com/user-attachments/assets/4da2ea5a-4d37-4952-b13a-cca18d236a03" />
+
+---
 
 
 ## ✅ How to Use
